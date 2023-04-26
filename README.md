@@ -2,6 +2,6 @@
 ## Uso de GIT
 Demostracion de GIt para sincroizar proyectos
 ## Herramientas usadas
---Netbeans
+Netbeans
 --Git
 --JDK 11
